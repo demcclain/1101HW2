@@ -15,7 +15,7 @@ for (var i = 0; i < listItems.length; i++) {
 
     // Check if the item matches kale, fresh figs, or honey
     if (itemText === 'fresh figs' || itemText === 'kale' || itemText === 'honey') {
-        listItems[i].className = 'frieza';                           // Change class to "cool"
+        listItems[i].className = 'frieza';                           // Change class to "frieza"
     }
 }
 
